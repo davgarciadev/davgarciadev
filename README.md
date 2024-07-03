@@ -1,13 +1,13 @@
 ![banner](https://github.com/davgarciadev/davgarciadev/assets/174006710/60e16714-7b97-4748-8e3a-a717e7abd82a)
 
-<h1 align="center">Hi 👋, I'm David García</h1>
+<h1 align="center">Hola! 👋, me llamo David García</h1>
 <h3 align="center">Soy desarrollador web full stack</h3>
 
-Provengo del sector artístico, donde me he formado como Técnico Superior en Artes Plásticas y Diseño especializado en Ilustración.
-Recientemente he transicionado al Desarrollo Web, un campo que ya me era familiar, ya que en el pasado había cursado los primeros años de Ingeniería del Software en la Universidad de Sevilla
-Actualmente estoy estudiando un máster en desarrollo Full Stack en la Academia Conquerblocks y planeo retomar mis estudios universitarios.
-Mi objetivo actual es construir una carrera sólida en desarrollo web. Para ello aplico todo aprendido en proyectos personales
-
+-🖌️ Provengo del sector artístico: Diseño e Ilustración 
+-💻 Actualmente estudiando un master en Desarrollo Web FullStack en @AcademiaConquerX
+-📖 Ahora mismo aprendiendo React...
+-🚀 Trabajando en proyectos personales
+-📭 Puedes contactarme en: hola@davgarcia.dev
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
