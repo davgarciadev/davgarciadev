@@ -1,7 +1,7 @@
 ![banner](https://github.com/davgarciadev/davgarciadev/assets/174006710/60e16714-7b97-4748-8e3a-a717e7abd82a)
 
 <h1 align="center">Hola! 👋, me llamo David García</h1>
-<h3 align="center">Soy desarrollador web full stack</h3>
+<h3 align="center">Soy desarrollador web Full-Stack con especialización en el Front-end</h3>
 
 -🖌️ Provengo del sector artístico: **Diseño e Ilustración** 
 
