@@ -1,7 +1,9 @@
 ![banner](https://github.com/davgarciadev/davgarciadev/assets/174006710/60e16714-7b97-4748-8e3a-a717e7abd82a)
 
-<h1 align="center">Hola! 👋, me llamo David García</h1>
-<h3 align="center">Soy desarrollador web Full-Stack con especialización en el Front-end</h3>
+<h1> Hola! 👋, me llamo David García</h1>
+
+<h3 >Soy desarrollador web Full-Stack, especializado en <strong>Front-end</strong></h3>
+<br>
 
 -🖌️ Provengo del sector artístico: **Diseño e Ilustración** 
 
@@ -13,21 +15,21 @@
 
 -📭 Puedes contactarme en: hola@davgarcia.dev
 
+<br>
+<br>
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Lenguajes y tecnologías que conozco👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+
+## 👨🏻‍💻 Lenguajes y tecnologías que conozco
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,typescript,nodejs,express,mongodb,git,github,figma,mysql,jest,vite &perline=14" />
     
   </a>
 </p>
+
+<br>
+<br>
 
 
 ## Proyectos *personales*
@@ -53,19 +55,35 @@
                                                                                       
 </td>
 
+<td width="50%">
+    <br>
+    <h3 align="center">Explorador de Tarjetas de Digimon</h3>
+    <div align="center">                                       
+        <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank">
+            <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/9a9af2ae-ce9c-4221-92d0-8a21a20163a9" width="400" alt="Digimon Card Explorer">
+        </a>
+        <br>
+        <p>
+            <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank">
+                <img src="https://img.shields.io/badge/C%C3%93DIGO-B6E0FE?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://digimon-card-explorer.davgarcia.dev" target="_blank">
+                <img src="https://img.shields.io/badge/-Visitar%20Sitio-FF7F50?style=for-the-badge&color=0B0872">
+            </a>
+        </p>
+        <p>Esta app consume la API expterna de <strong>Digi-Api</strong> para mostrar información detallada sobre distintos personajes Digimons en forma de tarjetas interactivas. Explora Digimons por nombre, tipo o visualiza todos los disponibles. Proyecto realizado con <strong>Html, CSS y Vanilla Javascrip</strong> con fines de aprendizaje.</p>
+    </div>                                                             
+</td>
+<br>
+
 </table>                                                                                 
 </div>
+<br>
 <br>
 
 
 
-
-
-
-
-
-
-<div align="center">
+<div>
     <summary><h2 style="display: inline-block">Historial de Commits👨🏻‍💻</h2></summary>
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
