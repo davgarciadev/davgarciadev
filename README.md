@@ -66,10 +66,10 @@
       <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/7ec7f582-66c1-4b9f-8f6c-3ea4e5733fc8" alt="Página Estática para Banda de Rock">
     </a>
     <p>
-      <a href="https://github.com/tu-usuario/tu-repositorio" target="_blank">
+      <a href="https://github.com/davgarciadev/rock-band-site" target="_blank">
         <img src="https://img.shields.io/badge/C%C3%93DIGO-922525?style=for-the-badge&logo=github&logoColor=black">
       </a>
-      <a href="https://tu-usuario.github.io/tu-repositorio/" target="_blank">
+      <a href="https://rock-band-site.davgarcia.dev/" target="_blank">
         <img src="https://img.shields.io/badge/-Visitar%20Sitio-green?style=for-the-badge&color=740000">
       </a>
     </p>
