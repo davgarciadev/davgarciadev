@@ -59,11 +59,14 @@
                                                                                       
 </td>
 
+
+
+
 <td width="50%">
   <h3 align="center">Página Estática para Banda de Rock</h3>
   <div align="center">
     <a href="https://github.com/tu-usuario/tu-repositorio" target="_blank">
-      <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/7ec7f582-66c1-4b9f-8f6c-3ea4e5733fc8" alt="Página Estática para Banda de Rock">
+      <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/e7c58848-e111-4686-94a3-281c1d90a98a" alt="Página Estática para Banda de Rock">
     </a>
     <p>
       <a href="https://github.com/davgarciadev/rock-band-site" target="_blank">
