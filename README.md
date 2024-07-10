@@ -85,7 +85,25 @@
 
 <table>
 <tr>
-  <td width="50%">
+<td width="50%">
+    <h3 align="center">TypeMaster Landing Page</h3>
+    <div align="center">                                       
+        <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank">
+            <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/31d7e86a-6e1b-4758-861f-4262912ffa6c" alt="TypeMaster Landing Page">
+        </a>
+        <p>
+            <a href="https://github.com/davgarciadev/typemaster-landing-page" target="_blank">
+                <img src="https://img.shields.io/badge/C%C3%93DIGO-F06519?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            <a href="https://davgarciadev.github.io/typemaster-landing-page/" target="_blank">
+                <img src="https://img.shields.io/badge/-Visitar%20Sitio-FF7F50?style=for-the-badge&color=ff9961">
+            </a>
+        </p>
+        <p>Proyecto de landing page para un negocio especializado en teclados ergonómicos modernos. El objetivo principal es proporcionar a los visitantes una experiencia visual atractiva y funcional que destaque las características y beneficios de estos teclados.</p>
+    </div>                                                             
+</td>
+
+ <td width="50%">
     <h3 align="center">Explorador de Tarjetas de Digimon</h3>
     <div align="center">                                       
         <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank"><img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/569e521f-3333-452d-9877-0cc7627daf30" alt="Digimon Card Explorer">
@@ -102,23 +120,6 @@
     </div>                                                             
 </td>
 
-<td width="50%">
-    <h3 align="center">Próximo Proyecto</h3>
-    <div align="center">                                       
-        <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank">
-            <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/8ee220a6-5d30-4ba4-92b8-8c613d23b3c7" alt="Digimon Card Explorer">
-        </a>
-        <p>
-            <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank">
-                <img src="https://img.shields.io/badge/C%C3%93DIGO-B6E0FE?style=for-the-badge&logo=github&logoColor=black">
-            </a>
-            <a href="https://digimon-card-explorer.davgarcia.dev" target="_blank">
-                <img src="https://img.shields.io/badge/-Visitar%20Sitio-FF7F50?style=for-the-badge&color=0B0872">
-            </a>
-        </p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum semper urna eget fringilla. Nullam sit amet nunc eget libero feugiat laoreet. Proin nec metus nec tortor malesuada aliquam. Nunc interdum eros at sem vestibul</p>
-    </div>                                                             
-</td>
 </tr>
 </table>
 
