@@ -9,11 +9,11 @@
 
 -💻 Actualmente estudiando un master en **Desarrollo Web FullStack** en @AcademiaConquerX
 
--📖 Ahora mismo aprendiendo **React**...
+-📖 En este momento, estoy profundizando en **React**
 
 -🚀 Trabajando en [proyectos personales](https://davgarcia.dev)
 
--📭 Puedes contactarme en: hola@davgarcia.dev
+-📭 Puedes contactarme en: davidgarcia@davgarcia.dev
 
 <br>
 <br>
