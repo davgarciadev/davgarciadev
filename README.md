@@ -25,7 +25,7 @@
 
 | Categoría        | Tecnologías |
 | ---------------- | ----------- |
-| **Frontend**     | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![SASS](https://skillicons.dev/icons?i=sass) ![TypeScript](https://skillicons.dev/icons?i=typescript) |
+| **Frontend**     | ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![SASS](https://skillicons.dev/icons?i=sass) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) |
 | **Backend**      | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Python](https://skillicons.dev/icons?i=python) |
 | **Bases de datos** | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) |
 | **Otros**        | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) ![Vite](https://skillicons.dev/icons?i=vite) ![Jest](https://skillicons.dev/icons?i=jest) |
