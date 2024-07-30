@@ -7,7 +7,7 @@
 
 -🖌️ Provengo del sector artístico: **Diseño e Ilustración** 
 
--💻 Actualmente estudiando un master en **Desarrollo Web FullStack** en @AcademiaConquerX
+-💻 Actualmente estudiando un master en **Desarrollo Web FullStack** en @ConquerBlocks
 
 -📖 En este momento, estoy profundizando en **React**
 
