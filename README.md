@@ -1,7 +1,6 @@
 
-<h1> Hola! 👋, me llamo David García</h1>
+<h2> Hola! 👋, me llamo David García</h2>
 
-<h3 >Soy desarrollador web, especializado en <strong>Front-end</strong></h3>
 <br>
 
 -🖌️ Provengo del sector artístico: **Diseño e Ilustración** 
