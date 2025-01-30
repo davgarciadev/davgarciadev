@@ -15,7 +15,7 @@
 </a>
 </p>
 <p>
-    Les presento mi portafolio web responsive de <strong>Desarrollador Web</strong>, el cual utilizo como Desarrollador FullStack. 
+    Portafolio web responsive de <strong>Desarrollador Web</strong>, proyecto frontend.
     Este portafolio está construido con <strong>HTML, SASS, y JavaScript</strong>, empleando la metodología BEM y una estructura de código modular organizada en distintas carpetas.
 </p>
 </div>
