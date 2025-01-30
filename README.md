@@ -1,9 +1,9 @@
 
-## Proyectos *personales*
+## Proyectos de aprendizaje
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Portafolio Desarrollador Web</h3>
+<h3 align="center">Frontend: Portafolio Sample Web</h3>
 <div align="center">
 <a href="https://github.com/davgarciadev/mi-portafolio" target="_blank"><img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/e5297bc1-a571-47f0-a2b0-c4655d4bf0f3"></a>
 <p>
@@ -24,7 +24,7 @@
 
 
 <td width="50%">
-  <h3 align="center">Página Estática para Banda de Rock</h3>
+  <h3 align="center">Maquetación:Banda de Rock</h3>
   <div align="center">
     <a href="https://github.com/tu-usuario/tu-repositorio" target="_blank">
       <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/e7c58848-e111-4686-94a3-281c1d90a98a" alt="Página Estática para Banda de Rock">
@@ -50,7 +50,7 @@
 <table>
 <tr>
 <td width="50%">
-    <h3 align="center">TypeMaster Landing Page</h3>
+    <h3 align="center">Maquetación: TypeMaster Landing Page</h3>
     <div align="center">                                       
         <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank">
             <img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/31d7e86a-6e1b-4758-861f-4262912ffa6c" alt="TypeMaster Landing Page">
@@ -68,7 +68,7 @@
 </td>
 
  <td width="50%">
-    <h3 align="center">Explorador de Tarjetas de Digimon</h3>
+    <h3 align="center">Front + Api: Explorador de Tarjetas Digimon </h3>
     <div align="center">                                       
         <a href="https://github.com/davgarciadev/digimon-card-explorer" target="_blank"><img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/569e521f-3333-452d-9877-0cc7627daf30" alt="Digimon Card Explorer">
         </a>
