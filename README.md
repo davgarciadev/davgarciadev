@@ -5,7 +5,7 @@
 <td width="50%">
 <h3 align="center">Frontend: Portafolio Sample Web</h3>
 <div align="center">
-<a href="https://github.com/davgarciadev/mi-portafolio" target="_blank"><img src="https://github.com/davgarciadev/davgarciadev/assets/174006710/e5297bc1-a571-47f0-a2b0-c4655d4bf0f3"></a>
+<a href="https://github.com/davgarciadev/mi-portafolio" target="_blank"><img src="https://github.com/user-attachments/assets/e2b9313e-3c08-4105-86f4-5eab7cb9682b"></a>
 <p>
 <a href="https://github.com/davgarciadev/mi-portafolio" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
